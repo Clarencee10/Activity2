@@ -1,0 +1,37 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+#personal-info, #favorite-song, #favorite-hobby {
+    margin: 20px;
+}
+
+h2 {
+    color: #3498db;
+}
+
+p {
+    line-height: 1.5;
+}
+
+#favorite-song {
+    background-color: #ecf0f1;
+    padding: 15px;
+}
+
+#favorite-song h3 {
+    color: #e74c3c;
+}
+
+/* Additional styling can be added as needed */
